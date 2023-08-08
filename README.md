@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi! I'm Sarah, and I'm crazy about information -- seriously! I'm a student in the General Assembly coding bootcamp, where I'm learning to wrangle HTML, CSS, and JavaScript. Before that, I took a brief foray into the academic study of religion as an undergraduate, and I started my career as an assistant at my hometown library, helping people find their next great beach readone or track down that super niche scholarly text via interlibrary loan! 
+
+On weekends, you can find me playing guitar 🎸, kayaking 🚣, or volunteering with the bunnies 🐇 at my local animal shelter. 
